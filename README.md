@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Computer Science and Enginnering at University of Moratuwa <br>- ⚡ Passionate about Data Science and programming</p>
+<p align="left">-📚 I'm currently learning Computer Science and Enginnering at University of Moratuwa <br>- ⚡ Passionate about Data Science and programming</p>
 
 ###
 ###
